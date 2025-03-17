@@ -1,0 +1,21 @@
+{
+    "name": "Embed your fist Gem",
+    "icon": "zenith:gem",
+    "category": "patchouli:3_category",
+    "pages":[
+        {
+            "type": "text",
+            "title": "Requirements",
+            "text": "To embed your first gem $(l)you will need$():$(br)$(li)A gem.$(li)An empty armor.$(li)A smithing table.$(li)A $(3)$(l)Sigil of Socketing.$()$(br2)Once you have all that you can start the $(l)smithing process.$()"
+        },
+        {
+            "type": "crafting",
+            "recipe": "zenith:sigil_of_socketing"
+        },
+        {
+            "type": "quest",
+            "title": "Embed your fist Gem",
+            "text": "First, use the smithing table to add an $(l)empty socket$() with the $(l)$(3)Sigil of Socketing$().$(br2)Then repeat the same process but with the $(2)$(l)gem$() you would like to embed."
+        }
+    ]
+}

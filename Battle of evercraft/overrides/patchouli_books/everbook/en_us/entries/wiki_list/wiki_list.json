@@ -1,0 +1,10 @@
+{
+    "name" : "Wiki list",
+    "icon" : "minecraft:painting",
+    "category" : "patchouli:1_category",
+    "pages" : [
+        {"type":"patchouli:text",
+    "text":"Here is a list of the most important wikis:$(br)$(li)$(l:https://immortaldevs.net/wiki/paradise-lost/guides/)Lost Paradise (Aether)$(/l)$(li)$(l:https://github.com/ObscuriaLithium/Aquamirae/wiki)Aquamirae$(/l)$(li)$(l:https://globox1997.github.io/wiki/mods/AdventureZ/#)AdventureZ$(/l)$(li)$(l:https://www.curseforge.com/minecraft/mc-mods/apotheosis)Zenith$(/l) $(li)$(l:https://github.com/paulevsGitch/BetterNether/wiki)BetterNether$(/l) $(li)$(l:https://github.com/Bawnorton/BetterTrims/blob/stonecutter/README.md)BetterTrims$(/l)"
+}
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Obtain gem dust",
+    "icon": "zenith:gem_dust",
+    "category": "patchouli:3_category",
+    "pages":[
+        {
+            "type": "quest",
+            "title": "Gem Dust",
+            "text": "Gem dust is an essential resource, to obtain it you'll need a bunch of $(l)$(2)Gems$() and an $(l)Anvil$().$(br2)Now drop your gems on the ground and $(l)let the anvil fall on them$()."
+        },
+        {
+            "type": "image",
+            "border": "true",
+            "text": "Congrats you now have $(l)$(9)Gem Dust!$()",
+            "images": ["boe:textures/book/gem_dust1.png", "boe:textures/book/gem_dust2.png"]
+        },
+        {
+            "type": "text",
+            "title": "Salvaging Table",
+            "text": "$(br)Now that you have a bunch of gem dust you can use it to craft a $(6)$(t:Also used for other items)$(l)Salvaging table$().$(br2)$(br)A salvaging table allows you to get multiple gem dust per gem crushed."
+        },
+        {
+            "type": "crafting",
+            "recipe": "zenith:salvaging_table"
+        }
+    ]
+}
