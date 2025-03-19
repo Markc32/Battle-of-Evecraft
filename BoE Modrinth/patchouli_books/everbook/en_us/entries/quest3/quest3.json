@@ -1,0 +1,22 @@
+{
+    "name": "Reforge your armor",
+    "icon": "betterend:iron_hammer",
+    "category": "patchouli:3_category",
+    "pages":[
+        {
+            "type": "text",
+            "title": "Requirements",
+            "text": "To reforge your armor $(l)you will need$():$(br)$(li)A rarity material.$(li)An armor piece.$(li)$(3)$(l)A Sigil of Rebirth$().$(li)$(4)$(l)A Reforging table$().$(br2)Once you have all these items it gets $(o)intuitive$()."
+        },
+        {
+            "type": "crafting",
+            "recipe": "zenith:simple_reforging_table",
+            "recipe2": "zenith:simple_reforging_table"
+        },
+        {
+            "type": "quest",
+            "title": "2",
+            "text": "2"
+        }
+    ]
+}

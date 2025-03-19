@@ -1,0 +1,5 @@
+{
+    "name": "Starting Weapons",
+    "description": "In this section, you will find what you need to start your adventure, the first $(l)$(3)armor and weapons$() and the $(l)$(d)skill$() system.",
+    "icon": "minecraft:iron_ingot"
+}

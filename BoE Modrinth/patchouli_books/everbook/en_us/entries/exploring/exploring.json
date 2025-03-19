@@ -1,0 +1,21 @@
+{
+    "name": "Exploration",
+    "icon": "minecraft:compass",
+    "category": "patchouli:1_category",
+    "pages": [
+        {   
+            "type": "patchouli:text",
+            "text": "To progress in $(#f00)Battle of Evercraft$() it is $(l)essential to explore$().$(br)The rarest resources are in dungeons and are much easier to find than in mines.$(br2)Here are some $(6)$(l)essential items$() to help you find what you're looking for:"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": ["boe:textures/book/crafting1.png"]
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "explorerscompass:explorerscompass",
+            "recipe2": "naturescompass:naturescompass"
+        }
+    ]
+}

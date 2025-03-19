@@ -1,0 +1,16 @@
+{
+    "name": "Difficulty",
+    "icon": "minecraft:diamond_sword",
+    "category": "patchouli:1_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In $(#f00)Battle of Evercraft$(), the world difficulty and loot quality adjust dynamically to various factors, making the experience more challenging over time.$(br2)It is important to $(l)not underestimate$() the zones, especially when there are many players online."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Variables:",
+            "text": "$(li)$(l)Number of players online,$() the more players online, the $(#f00)stronger$() the mobs will be.$(br)$(li)$(l)Distance from spawn,$() as you move away from the spawn point, the zones will progressively get more difficult.$(br)$(li)$(l)Playtime,$() the longer the game goes on, the more the difficulty increases.$(br)$(li)$(l)Zones, biomes, and dimensions,$() some areas have a particularly higher difficulty level ($(o)e.g.: $(#f00)Nether$() and $(3)End$())."
+        }
+    ]
+}
