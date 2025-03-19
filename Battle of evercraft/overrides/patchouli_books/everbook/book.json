@@ -1,7 +1,0 @@
-{
-    "name" : "Everbook",
-    "landing_text" : "Welcome to $(6)EverBook$(), the official guide for $(#f00)Battle of Evercraft$(), the ultimate lightweight medieval modpack for Minecraft.$(br2)Here you will find everything you need.",
-    "version" : 1,
-    "creative_tab" : "minecraft:tools_and_utilities",
-    "use_resource_pack" : true
-}
