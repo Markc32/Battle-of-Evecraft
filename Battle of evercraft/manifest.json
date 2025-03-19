@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Battle of Evercraft 0.1.2",
-  "version": "",
+  "name": "Battle of Evercraft",
+  "version": "0.1.3",
   "author": "",
   "files": [
     {
@@ -22,6 +22,11 @@
     {
       "projectID": 580036,
       "fileID": 5420262,
+      "required": true
+    },
+    {
+      "projectID": 615106,
+      "fileID": 5976143,
       "required": true
     },
     {
@@ -80,6 +85,11 @@
       "required": true
     },
     {
+      "projectID": 580689,
+      "fileID": 6259620,
+      "required": true
+    },
+    {
       "projectID": 361579,
       "fileID": 4738953,
       "required": true
@@ -117,6 +127,11 @@
     {
       "projectID": 248787,
       "fileID": 4770825,
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 6270578,
       "required": true
     },
     {
@@ -217,6 +232,11 @@
     {
       "projectID": 319596,
       "fileID": 5419266,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 6311579,
       "required": true
     },
     {
@@ -405,11 +425,6 @@
       "required": true
     },
     {
-      "projectID": 306612,
-      "fileID": 6311579,
-      "required": true
-    },
-    {
       "projectID": 568563,
       "fileID": 5982137,
       "required": true
@@ -542,6 +557,11 @@
     {
       "projectID": 448233,
       "fileID": 6236057,
+      "required": true
+    },
+    {
+      "projectID": 500525,
+      "fileID": 6319692,
       "required": true
     },
     {
@@ -767,6 +787,11 @@
     {
       "projectID": 631403,
       "fileID": 4769490,
+      "required": true
+    },
+    {
+      "projectID": 326652,
+      "fileID": 5470034,
       "required": true
     },
     {

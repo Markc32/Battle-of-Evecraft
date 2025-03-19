@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","file/STONEBORN+-+1.20-1.20.1+-+V3.2.3.zip","file/STONEBORN - 1.18 - EXTENDED V1.3.zip","file/STONEBORN - 1.4-1.20.1 MeiAdditions.zip","file/STONEBORN Mod Menu Support v1.0.zip","file/Trinkets for STONEBORN.zip","file/EmbellishedStone-1.20.1-1.0.0.zip","file/EclecticTrove-noconfig-1.20.1-1.3.0.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/glowing trims 1.20 v1.5.zip","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/Glowing-OF_v0.4.0-mc1.20.zip","file/battle_of_evercraft"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","file/STONEBORN+-+1.20-1.20.1+-+V3.2.3.zip","file/STONEBORN Mod Menu Support v1.0.zip","file/Trinkets for STONEBORN.zip","file/EmbellishedStone-1.20.1-1.0.0.zip","file/EclecticTrove-noconfig-1.20.1-1.3.0.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/glowing trims 1.20 v1.5.zip","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/Glowing-OF_v0.4.0-mc1.20.zip","file/battle_of_evercraft"]
 incompatibleResourcePacks:["file/STONEBORN - 1.18 - EXTENDED V1.3.zip","file/STONEBORN - 1.4-1.20.1 MeiAdditions.zip","file/STONEBORN Mod Menu Support v1.0.zip"]
 lastServer:
 lang:en_us
@@ -179,8 +179,8 @@ key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.mcda.firetrail.toggle:key.keyboard.semicolon
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.unknown
-key_key.origins.primary_active:key.keyboard.g
-key_key.origins.secondary_active:key.keyboard.h
+key_key.origins.primary_active:key.mouse.5
+key_key.origins.secondary_active:key.mouse.4
 key_key.origins.view_origin:key.keyboard.j
 key_key.puffish_skills.open:key.keyboard.k
 key_key.simplyskills.ability1:key.keyboard.b
