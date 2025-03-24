@@ -43,7 +43,7 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","file/STONEBORN+-+1.20-1.20.1+-+V3.2.3.zip","file/STONEBORN Mod Menu Support v1.0.zip","file/Trinkets for STONEBORN.zip","file/EmbellishedStone-1.20.1-1.0.0.zip","file/EclecticTrove-noconfig-1.20.1-1.3.0.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/glowing trims 1.20 v1.5.zip","file/xali\u0027s Bushy Leaves v3.5.0.zip","file/Glowing-OF_v0.4.0-mc1.20.zip","file/battle_of_evercraft"]
-incompatibleResourcePacks:["file/STONEBORN - 1.18 - EXTENDED V1.3.zip","file/STONEBORN - 1.4-1.20.1 MeiAdditions.zip","file/STONEBORN Mod Menu Support v1.0.zip"]
+incompatibleResourcePacks:["file/STONEBORN Mod Menu Support v1.0.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -123,8 +123,10 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.adventurez.dragonflydown:key.keyboard.unknown
 key_key.adventurez.dragonfirebreath:key.keyboard.unknown
 key_key.azurelib.reload:key.keyboard.r
-key_key.azurelib.scope:key.keyboard.left.alt
+key_key.azurelib.scope:key.keyboard.unknown
 key_key.azurelib.fire:key.keyboard.unknown
+key_key.beansbackpacks.action:key.keyboard.unknown
+key_key.beansbackpacks.inventory:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.r
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.y
 key_key.bettertrims.toggle_magnet:key.keyboard.apostrophe
@@ -134,10 +136,12 @@ key_create.keyinfo.ponder:key.keyboard.w
 key_key.deeperdarker.boost:key.keyboard.comma
 key_key.deeperdarker.transmit:key.keyboard.period
 key_key.entityculling.toggle:key.keyboard.unknown
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
 key_fakerlib.toggleWings:key.keyboard.unknown
 key_fakerlib.toggleTrails:key.keyboard.unknown
+key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown

@@ -6,17 +6,21 @@
         {
             "type": "text",
             "title": "Requirements",
-            "text": "To reforge your armor $(l)you will need$():$(br)$(li)A rarity material.$(li)An armor piece.$(li)$(3)$(l)A Sigil of Rebirth$().$(li)$(4)$(l)A Reforging table$().$(br2)Once you have all these items it gets $(o)intuitive$()."
+            "text": "To reforge your armor $(l)you will need$():$(br)$(li)Some rarity materials.$(li)An armor piece.$(li)A bunch of                    $(3)$(l)Sigils of Rebirth$().$(li)$(4)$(l)A Reforging table$().$(br2)Once you have all these items it gets $(o)intuitive$()."
         },
         {
             "type": "crafting",
-            "recipe": "zenith:simple_reforging_table",
+            "recipe": "zenith:sigil_of_rebirth",
             "recipe2": "zenith:simple_reforging_table"
         },
         {
             "type": "quest",
-            "title": "2",
-            "text": "2"
+            "title": "Reforge your armor",
+            "text": "Now that you have all the ingredients place them inside accordingly inside the reforging table and $(br)$(l)$(o)roll the dice$() on your armor piece.$(br2)You can $(l)re-roll$() as much as you have materials and xp for."
+        },
+        {
+            "type": "image",
+            "images": ["boe:textures/book/forging.png"]
         }
     ]
 }

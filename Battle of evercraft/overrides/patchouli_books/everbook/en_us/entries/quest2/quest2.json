@@ -10,7 +10,8 @@
         },
         {
             "type": "crafting",
-            "recipe": "zenith:sigil_of_socketing"
+            "recipe": "zenith:gem_fused_slate",
+            "recipe2": "zenith:sigil_of_socketing"
         },
         {
             "type": "quest",

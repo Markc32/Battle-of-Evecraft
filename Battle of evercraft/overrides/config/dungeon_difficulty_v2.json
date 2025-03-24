@@ -1,7 +1,7 @@
 {
   "meta": {
     "comment": "IMPORTANT! Make sure to set `allow_customization` to `true` to allow customization of the config",
-    "allow_customization": false,
+    "allow_customization": true,
     "sanitize_config": true,
     "rounding_unit": 0.5
   },
