@@ -1,0 +1,23 @@
+{
+  "allowMovement": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "xaero.map.gui.GuiMap": true,
+    "com.beansgalaxy.backpacks.screen.BackpackScreen": true,
+    "org.valkyrienskies.eureka.gui.engine.EngineScreen": true,
+    "org.valkyrienskies.eureka.gui.shiphelm.ShipHelmScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "dev.shadowsoffire.apotheosis.adventure.affix.reforging.ReforgingScreen": true,
+    "net.spell_engine.spellbinding.SpellBindingScreen": true,
+    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.beansgalaxy.backpacks.screen.BackpackScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "dev.shadowsoffire.apotheosis.adventure.affix.reforging.ReforgingScreen": true,
+    "net.spell_engine.spellbinding.SpellBindingScreen": true
+  }
+}

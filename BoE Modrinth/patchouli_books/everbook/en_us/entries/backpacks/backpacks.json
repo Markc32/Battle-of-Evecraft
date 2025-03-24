@@ -1,0 +1,15 @@
+{
+    "name": "Backpacks",
+    "icon": "beansbackpacks:backpack",
+    "category": "patchouli:2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)$(6)Backpacks$() are a key item to explore the world, and the many structures within it.$(br2)There are many tiers of backpacks and they all improve your inventory space, some like the $(o)$(l)$(5)EnderBackpack$() even allow you to share that backpack with a friend."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["boe:textures/book/crafting3.png"]
+        }
+    ]
+}
