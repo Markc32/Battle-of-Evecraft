@@ -9,7 +9,29 @@
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
     "dev.shadowsoffire.apotheosis.adventure.affix.reforging.ReforgingScreen": true,
     "net.spell_engine.spellbinding.SpellBindingScreen": true,
-    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true
+    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true,
+    "io.github.apace100.origins.screen.ChooseOriginScreen": true,
+    "net.minecraft.class_433": true,
+    "net.patchoulibutton.screen.PatchouliButtonScreen": true,
+    "net.minecraft.class_429": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.puffish.skillsmod.client.gui.SkillsScreen": true,
+    "io.github.apace100.origins.screen.ViewOriginScreen": true,
+    "xaero.common.gui.GuiAddWaypoint": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "net.minecraft.class_410": true,
+    "com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsScreen": true,
+    "com.simibubi.create.foundation.ponder.ui.PonderUI": true,
+    "com.simibubi.create.content.kinetics.transmission.sequencer.SequencedGearshiftScreen": true,
+    "com.simibubi.create.content.redstone.link.controller.LinkedControllerScreen": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_407": true,
+    "dev.shadowsoffire.apotheosis.adventure.affix.salvaging.SalvagingScreen": true,
+    "net.minecraft.class_458": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "com.simibubi.create.content.contraptions.elevator.ElevatorContactScreen": true,
+    "net.minecraft.class_443": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
@@ -18,6 +40,11 @@
     "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
     "dev.shadowsoffire.apotheosis.adventure.affix.reforging.ReforgingScreen": true,
-    "net.spell_engine.spellbinding.SpellBindingScreen": true
+    "net.spell_engine.spellbinding.SpellBindingScreen": true,
+    "com.simibubi.create.content.kinetics.transmission.sequencer.SequencedGearshiftScreen": true,
+    "com.simibubi.create.content.redstone.link.controller.LinkedControllerScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookIndex": true,
+    "dev.shadowsoffire.apotheosis.adventure.affix.salvaging.SalvagingScreen": true,
+    "com.simibubi.create.content.contraptions.elevator.ElevatorContactScreen": true
   }
 }
