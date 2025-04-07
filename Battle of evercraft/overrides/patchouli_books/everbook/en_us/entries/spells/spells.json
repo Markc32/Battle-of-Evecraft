@@ -1,0 +1,16 @@
+{
+    "name": "Class spells",
+    "icon": "jewelry:ruby_ring",
+    "category": "patchouli:2_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Spells are essential to use your class abilities at their $(l)fullest$().$(br2)To get them you will need a $(l)$(6)Spell Binding Table$(), to transform a normal book into a $(l)$(2)Class Manual$().$(br2)Then you will be able to enchant it with its own spells."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["boe:textures/book/crafting2.png"],
+            "text": "You can also find one in $(o)some$() villages at a $(l)gazebo$() structure.$(o) (they are very rare)$()"
+        }
+    ]
+}
